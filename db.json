@@ -50,6 +50,16 @@
            "Beneficios":"Entrenamiento físico y deportivo para competencias nacionales. Disponibilidad de Cancha en el horario, proporciona los equipos necesarios como balones y medidas de protección. Piscina y sauna incluida. Se proporcionan uniformes para competencia. Menú de almuerzos. ",
            "Restricciones":"Pedir con antelación préstamo de la cancha y piscina fuera del horario, se puede pedir prestado los intrumentos o pedir para comprar. Se puede personalizar uniforme siguiendo las normas establecidas",
            "Nota":"Puede becarse si el estudiante tiene alto rendimiento"
+         },
+         {
+           "id" : 6,
+           "Codigo": "#2097",
+           "NombredelPlan": " F: Plan exclusivo PLUS: Preparación competitiva Internacional",
+           "Plazo": "Semana laboral 3:00 a.m-6:00 p.m",
+           "Anualidad":"$40 mensual",
+           "Beneficios":"Entrenamiento físico y deportivo para competencias nacionales. Disponibilidad de Cancha en el horario, proporciona los equipos necesarios como balones y medidas de protección. Piscina y sauna incluida. Se proporcionan uniformes para competencia. Menú de almuerzos. ",
+           "Restricciones":"Pedir con antelación préstamo de la cancha y piscina fuera del horario, se puede pedir prestado los intrumentos o pedir para comprar. Se puede personalizar uniforme siguiendo las normas establecidas",
+           "Nota":"Puede becarse si el estudiante tiene alto rendimiento"
          }
        ]
  }
